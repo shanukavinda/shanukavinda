@@ -14,7 +14,7 @@
 
 
 
-  [![My Skills](https://skillicons.dev/icons?i=js,py,flask,mariadb,css,html,linux,vscode)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,py,flask,css,html,linux,vscode)](https://skillicons.dev)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
