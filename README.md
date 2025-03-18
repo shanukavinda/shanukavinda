@@ -2,13 +2,10 @@
 <h3>A self-motivated individual currently working with JavaScript, Python, and MariaDB, with a focus on delivering effective solutions.</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p style="display: flex; align-items: center; gap: 15px;">
   <a href="https://linkedin.com/in/shanukafd" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
   </a>
-</p>
-
-<p>
   <a href="mailto:kshanuka97@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail">
   </a>
@@ -20,4 +17,3 @@
     <img src="https://skillicons.dev/icons?i=js,py,flask,css,html,linux,vscode" alt="Tech Stack">
   </a>
 </p>
-
