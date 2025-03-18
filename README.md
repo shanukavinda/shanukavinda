@@ -6,7 +6,7 @@
   <a href="https://linkedin.com/in/shanukafd" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
   </a>
-  <a href="kshanuka97@gmail.com" target="_blank">
+  <a href="mailto:kshanuka97@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail">
   </a>
 </p>
@@ -17,3 +17,4 @@
     <img src="https://skillicons.dev/icons?i=js,py,flask,css,html,linux,vscode" alt="Tech Stack">
   </a>
 </p>
+
