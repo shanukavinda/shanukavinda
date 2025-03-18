@@ -5,9 +5,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/shanukafd" target="blank">
+<!--  href="https://linkedin.com/in/www.linkedin.com/in/shanukafd" target="blank" -->
   [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
-</a>    
+ 
 </p>
 
 
