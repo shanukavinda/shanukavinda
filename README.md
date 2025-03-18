@@ -6,8 +6,8 @@
   <a href="https://linkedin.com/in/shanukafd" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
   </a>
-  <a href="https://linkedin.com/in/shanukafd" target="_blank">
-    <img src="kshanuka97@gmail.com" alt="Gmail">
+  <a href="kshanuka97@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail">
   </a>
 </p>
 
