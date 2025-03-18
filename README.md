@@ -5,7 +5,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/shanukafd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shanukafd" height="30" width="40" /></a>    
+<a href="https://linkedin.com/in/www.linkedin.com/in/shanukafd" target="blank">
+  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+</a>    
 </p>
 
 
