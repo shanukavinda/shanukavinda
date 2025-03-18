@@ -4,26 +4,15 @@
 - 📫 How to reach me **kshanuka97@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">  
-
-
-
-  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+<p align="left">
+  <a href="https://linkedin.com/in/shanukafd" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
+  </a>
 </p>
-
 
 <h3 align="left">Technologies & Tools in Use: </h3>
-<p align="left">  
-
-
-
-  [![My Skills](https://skillicons.dev/icons?i=js,py,flask,css,html,linux,vscode)](https://skillicons.dev)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,py,flask,css,html,linux,vscode" alt="Tech Stack">
+  </a>
 </p>
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-
-
-
-<!--  href="https://linkedin.com/in/www.linkedin.com/in/shanukafd" target="blank" -->
