@@ -11,6 +11,6 @@
 <h3 align="left">Technologies & Tools in Use: </h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,py,flask,java,spring,jest,postgresql,docker,css,html,linux,vscode,idea,postman" alt="Tech Stack">
+    <img src="https://skillicons.dev/icons?i=js,py,flask,java,spring,jest,postgresql,docker,css,html,tailwindcss,linux,vscode,idea,postman" alt="Tech Stack">
   </a>
 </p>
